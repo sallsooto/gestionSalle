@@ -1,0 +1,18 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+adherant		TAR	342	nouvelle taille enregistrement : 342
+adherant	adh_Matricule	RUB+		adh_Matricule est une nouvelle rubrique
+adherant	adh_photo	RUB+		adh_photo est une nouvelle rubrique
+adherant	adh_nom	RUB+		adh_nom est une nouvelle rubrique
+adherant	adh_prenom	RUB+		adh_prenom est une nouvelle rubrique
+adherant	adh_sexe	RUB+		adh_sexe est une nouvelle rubrique
+adherant	adh_adresse	RUB+		adh_adresse est une nouvelle rubrique
+adherant	adh_telephone	RUB+		adh_telephone est une nouvelle rubrique
+adherant	adh_nationalite	RUB+		adh_nationalite est une nouvelle rubrique
+adherant	adh_dateNaissance	RUB+		adh_dateNaissance est une nouvelle rubrique
+payement		NFI		nouveau fichier
+inscription		NFI		nouveau fichier
+parametrage		NFI		nouveau fichier
+categorie		NFI		nouveau fichier
+adherant		NWL	adherant (IDadherant) et inscription (IDadherant)	Nouvelle liaison entre les fichiers adherant (IDadherant) et inscription (IDadherant)
+adherant		NWL	adherant (IDadherant) et payement (IDadherant)	Nouvelle liaison entre les fichiers adherant (IDadherant) et payement (IDadherant)
+payement		FRN		

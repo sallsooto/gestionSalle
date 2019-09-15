@@ -1,0 +1,9 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+payement		TAR	63	nouvelle taille enregistrement : 63
+payement	pay_date	CNW	Date (aaaammjj)$Chaîne	la rubrique pay_date a pour nouveau type Date (aaaammjj)
+payement	pay_dateFin	RUB+		pay_dateFin est une nouvelle rubrique
+payement	pay_montantMensieul	RUB+		pay_montantMensieul est une nouvelle rubrique
+payement	pay_montantTatal	RUB+		pay_montantTatal est une nouvelle rubrique
+inscription		TAR	103	nouvelle taille enregistrement : 103
+inscription	IDcategorie	RUB+		IDcategorie est une nouvelle clé
+categorie		NWL	categorie (IDcategorie) et inscription (IDcategorie)	Nouvelle liaison entre les fichiers categorie (IDcategorie) et inscription (IDcategorie)

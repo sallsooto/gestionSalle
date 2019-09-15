@@ -1,0 +1,18 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+adherant	adh_Matricule	CLEU*		la rubrique adh_Matricule est maintenant une clé
+adherant	adh_nomComplet	CLEN*		la rubrique adh_nomComplet est maintenant une clé
+adherant	adh_sexe	CLEN*		la rubrique adh_sexe est maintenant une clé
+adherant	adh_adresse	CLEN*		la rubrique adh_adresse est maintenant une clé
+adherant	adh_telephone	CLEN*		la rubrique adh_telephone est maintenant une clé
+adherant	adh_nationalite	CLEN*		la rubrique adh_nationalite est maintenant une clé
+adherant	adh_dateNaissance	CLEN*		la rubrique adh_dateNaissance est maintenant une clé
+payement	pay_date	CLEN*		la rubrique pay_date est maintenant une clé
+payement	pay_dateFin	CLEN*		la rubrique pay_dateFin est maintenant une clé
+payement	pay_montantMensieul	CLEN*		la rubrique pay_montantMensieul est maintenant une clé
+payement	pay_montantTatal	CLEN*		la rubrique pay_montantTatal est maintenant une clé
+inscription	ins_date	CLEN*		la rubrique ins_date est maintenant une clé
+inscription	ins_montant	CLEN*		la rubrique ins_montant est maintenant une clé
+inscription	ins_montantRestant	CLEN*		la rubrique ins_montantRestant est maintenant une clé
+categorie	cat_designation	CLEN*		la rubrique cat_designation est maintenant une clé
+categorie	cat_FraisInscription	CLEN*		la rubrique cat_FraisInscription est maintenant une clé
+categorie	cat_FraisMensualite	CLEN*		la rubrique cat_FraisMensualite est maintenant une clé

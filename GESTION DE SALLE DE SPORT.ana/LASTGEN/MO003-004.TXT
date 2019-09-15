@@ -1,0 +1,10 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+adherant		TAR	291	nouvelle taille enregistrement : 291
+adherant	adh_nomComplet	NNR	adh_nom	ATTENTION : la rubrique adh_nom a pour nouveau nom adh_nomComplet
+adherant	adh_prenom	RUB-		la rubrique adh_prenom est supprimée
+inscription		TAR	62	nouvelle taille enregistrement : 62
+inscription	ins_montantRestant	CNW	Monétaire$Chaîne	la rubrique ins_montantRestant a pour nouveau type Monétaire
+categorie		TAR	88	nouvelle taille enregistrement : 88
+categorie	cat_FraisInscription	RUB+		cat_FraisInscription est une nouvelle rubrique
+categorie	cat_FraisMensualite	RUB+		cat_FraisMensualite est une nouvelle rubrique
+categorie		FIC-	parametrage	Fichier supprimé parametrage

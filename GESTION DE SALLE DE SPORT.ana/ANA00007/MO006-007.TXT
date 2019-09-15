@@ -1,0 +1,3 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+adherant		TAR	392	nouvelle taille enregistrement : 392
+adherant	adh_sexe	CNW	Chaîne$Booléen	la rubrique adh_sexe a pour nouveau type Chaîne

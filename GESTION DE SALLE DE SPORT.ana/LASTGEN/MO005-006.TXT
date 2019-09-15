@@ -1,0 +1,4 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+adherant		TAR	342	nouvelle taille enregistrement : 342
+adherant	adh_nom	NNR	adh_nomComplet	ATTENTION : la clé adh_nomComplet a pour nouveau nom adh_nom
+adherant	adh_prenom	RUB+		adh_prenom est une nouvelle clé
